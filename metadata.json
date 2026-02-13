@@ -1,0 +1,5 @@
+{
+  "name": "FinCalc Pro",
+  "description": "A comprehensive finance calculator for Loans, EMI, and SIP investments with visualizations and PDF export.",
+  "requestFramePermissions": []
+}
